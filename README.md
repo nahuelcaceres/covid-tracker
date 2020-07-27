@@ -1,3 +1,7 @@
+This project belongs to adrianhajdin (https://github.com/adrianhajdin/project_corona_tracker)
+You can follow this video (https://www.youtube.com/watch?v=khJlrj3Y6Ls&t=1850s)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
