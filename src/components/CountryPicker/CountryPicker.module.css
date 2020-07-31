@@ -1,5 +1,19 @@
-.formControl {
-    width: 50%;
+
+.countries {
+    display: flex;
     margin-bottom: 30px !important;
+    width: 60vw;
+}
+@media (min-width: 900px){
+    .countries{
+       margin-bottom: 30px !important;
+       width: 40vw !important;
+    }
 }
 
+@media (max-width: 600px){
+    .countries{
+      margin-bottom: 30px !important;
+      width: 80vw !important;
+    }
+}
